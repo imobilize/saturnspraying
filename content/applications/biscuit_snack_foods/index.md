@@ -5,6 +5,7 @@ draft: false
 language: en
 description: Additions of flavours and textures to Biscuits and Snack Foods
 featuredImage: "images/2.jpg"
+image: "images/1.jpg"
 ---
 
 ## Oil & Salt Coating

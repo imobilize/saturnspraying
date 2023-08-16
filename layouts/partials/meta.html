@@ -1,5 +1,5 @@
 <title itemprop="name">{{if .IsHome}} {{ $.Site.Params.description }} - {{ .Title }}
-    {{else}} {{ .Title }} - {{ .Site.Title }} {{end}}
+  {{else}} {{ .Title }} - {{ .Site.Title }} {{end}}
 </title>
 <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
 <meta property="og:title" content="{{ .Title }} - {{ .Site.Title }}" />
@@ -10,18 +10,15 @@
 <meta property="og:type" content="website" />
 <meta property="og:title" content="{{ .Site.Title }}" />
 <meta property="og:description"
-      content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
+    content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
 <meta property="og:site_name" content="{{ .Site.Title }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:locale" content="en">
-{{ with .Params.featuredImage }}
-  <meta property="og:image" content="{{ . | relURL }}" />
-  <meta property="og:image:secure_url" content="{{ . | absURL }}" />
+{{ if .Params.og_image }}
+<meta property="og:image" content="{{ .Params.Site.BaseURL }}{{ .Params.og_image | relURL }}" />
+<meta property="og:image:secure_url" content="{{ .Params.og_image | absURL }}" />
 {{ else }}
-  {{ if .Site.Params.og_image }}
-    <meta property="og:image" content="{{ .Site.Params.og_image | relURL }}" />
-    <meta property="og:image:secure_url" content="{{ .Site.Params.og_image | absURL }}" />
-  {{ end }}
+<meta property="og:image" content="{{ .Params.Site.BaseURL }}{{ .Site.Params.og_image | relURL }}" />
+<meta property="og:image:secure_url" content="{{ .Site.Params.og_image | absURL }}" />
 {{ end }}
-
 <meta property="og:type" content="website" />

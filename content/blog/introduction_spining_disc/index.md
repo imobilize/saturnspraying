@@ -4,6 +4,7 @@ date: 2023-06-26T11:10:36+08:00
 draft: false
 language: en
 featuredImage: "images/1.jpg"
+image: "images/1.jpg"
 description: The spraying system is a dish-shaped rotating stainless steel disc. The disc is rotated at speed; whereupon liquids are fed into the centre of the spinning disc
 authorImage: ""
 categories: Production

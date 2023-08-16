@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "Low fat Chips, oven ready chips, low fat processed foods, roast potatoes"
 featuredImage: "images/1.jpg"
+image: "images/1.jpg"
 ---
 
 ## Introduction

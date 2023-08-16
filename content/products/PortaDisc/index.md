@@ -4,6 +4,7 @@ date: 2023-05-23T15:28:43+06:00
 draft: false
 description: "The Portadisc™ System provides a ‘Top Only’ spray capability, in situations where space or an existing conveyor line precludes the use of either the mainstream DiscMaster™ or DiscMatic™ Spraying Systems. By using key design components from the DiscMatic™ System library, a highly flexible range of ‘Top Only’ spray systems offered under the title “PORTADISC” can be configured."
 featuredImage: "images/PortaDisc1.jpg"
+image: "images/PortaDisc1.jpg"
 image1: "images/PortaDisc2.jpg"
 image2: "images/PortaDisc3.jpg"
 image3: "images/PortaDisc4.jpg"

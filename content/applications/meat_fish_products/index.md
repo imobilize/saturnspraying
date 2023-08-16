@@ -5,6 +5,7 @@ draft: false
 language: en
 description: Meat & Fish Breadcrumbed foods with low fat uptake using barrier emulsion spraying.
 featuredImage: "images/1.jpg"
+image: "images/1.jpg"
 ---
 
 ## Meat & Fish Products

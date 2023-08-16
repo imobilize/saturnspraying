@@ -4,6 +4,7 @@ date: 2023-05-23T15:28:43+06:00
 draft: false
 description: "Granular products such as sugars, nuts, dried herbs, breadcrumbs and various seeds such as poppy, sesame and cracked wheat, can be evenly sprinkled on to the top of produce, using Saturn's sprinkler. The sprinkler head is mounted over its own integral conveyor."
 featuredImage: "images/1.jpg"
+image: "images/1.jpg"
 image1: "images/1.jpg"
 image2: "images/2.jpg"
 image3: "images/3.jpg"

@@ -1,0 +1,26 @@
+{{ $images := slice }}
+
+{{ if .Params.images }}
+  {{ $images = union $images .Params.images }}
+{{ end }}
+
+{{ if .Params.image }}
+  {{ $images = union $images (slice .Params.image) }}
+{{ end }}
+
+{{ if .Params.featuredImage }}
+  {{ $images = union $images (slice .Params.featuredImage) }}
+{{ end }}
+
+{{ if $images }}
+  {{ range $images }}
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ .Title }} - {{ .Site.Title }}">
+    <meta name="twitter:description" content="{{ .Description }}">
+    <meta name="twitter:image" content="{{ $.Site.BaseURL }}{{ . | relURL }}">
+  {{ end }}
+{{ else }}
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{{ .Title }} - {{ .Site.Title }}">
+  <meta name="twitter:description" content="{{ .Description }}">
+{{ end }}

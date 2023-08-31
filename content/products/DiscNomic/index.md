@@ -5,6 +5,7 @@ draft: false
 description: "DiscNomic is Saturn Spraying Systems entry level single disc Top Only Spray Machine"
 featuredImage: "images/2.jpg"
 image: "images/2.jpg"
+images: ["images/1.png","images/2.jpg","images/3.jpg"]
 image1: "images/1.png"
 categories: "production"
 keywords: "DiscNomic, Precision Spraying System, Food Processing, Sensor trigger"

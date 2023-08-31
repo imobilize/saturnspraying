@@ -6,6 +6,7 @@ language: en
 description: "Precision Spraying onto Fruit and vegetables. Extending Shelf life with Sterilant Spraying. Low fat Chips and Roast Potatoes."
 featuredImage: "images/1.jpg"
 image: "images/1.jpg"
+images: ["images/image1.jpg", "images/image2.jpg"]
 ---
 
 ## Fruit & Vegetables

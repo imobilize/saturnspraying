@@ -4,6 +4,8 @@ date: 2023-05-23T15:28:43+06:00
 draft: false
 description: "Discmaster System is Saturn's Small to Medium Sized Business Spraying System. Configured for Top Or All Over Precision Spraying."
 featuredImage: "images/1.png"
+images: ["images/image2.png", "images/image2.png", "images/image2.png"]
+image: "images/1.png"
 image1: "images/2.png"
 image1: "images/3.png"
 image1: "images/4.png"

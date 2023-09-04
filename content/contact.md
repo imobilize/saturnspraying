@@ -7,6 +7,7 @@ description: Contact Satrun Spraying Systems ltd
 type: page
 layout: contact
 featuredImage: "images/pages/contact-saturn-spraying.png"
+image: "images/pages/contact-saturn-spraying.png"
 keywords: "Saturn Spraying, Our Agents, contact, email form, Our Location"
 ---
 

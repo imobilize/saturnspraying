@@ -5,5 +5,7 @@ draft: false
 description: "Product Range of Saturn Spraying Systems Limited"
 author: "Outsourced Sales"
 featuredImage: "images/pages/products-saturn-spraying.png"
+image: "images/pages/products-saturn-spraying.png"
+image: ["images/pages/products-saturn-spraying.png"]
 keywords: "DiscMaster, DiscMatic, PortaDisc"
 ---

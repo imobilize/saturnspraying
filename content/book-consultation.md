@@ -5,6 +5,8 @@ draft: false
 language: en
 description: Book in your call to talk about your spraying needs
 keywords: "Saturn Spraying, Spraying oils and glazes, Food Processing, Food Production, Book a call, Book free consultation, Precision Spraying"
+image: "images/pages/book-call.png"
+images: ["images/pages/book-call.png"]
 ---
 
 

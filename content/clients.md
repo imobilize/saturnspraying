@@ -7,4 +7,6 @@ description: Our Clients
 type: page
 layout: clients
 keywords: "Saturn Spraying, Spraying oils and glazes, Food Processing, Food Production, Our Agents, Our Clients, Distributors, Egg Glazing"
+image: "images/pages/our-clients.png"
+images: ["images/pages/our-clients.png"]
 ---

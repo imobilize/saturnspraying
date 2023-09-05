@@ -2,9 +2,10 @@
 title: Contact Form Sent
 date: 2022-12-18T03:10:36.000Z
 draft: false
-sitemapExclude: true
 language: en
 description: Contact us form submitted
+image: "images/pages/contact-saturn-spraying.png"
+images: ["images/pages/contact-saturn-spraying.png"]
 ---
 
 ## We have received your enquiry

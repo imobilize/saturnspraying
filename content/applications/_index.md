@@ -6,6 +6,7 @@ language: en
 description: Review of the many applications that Precision Food Spraying Technology offers.
 featuredImage: "images/pages/applications-saturn-spraying.png"
 image: "images/pages/applications-saturn-spraying.png"
+images: ["images/pages/applications-saturn-spraying.png"]
 keywords: "Food Spraying, Food Glazing, Egg Wash, Egg Glazing, Liquid Egg, Precision Spraying"
 ---
 

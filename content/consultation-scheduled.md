@@ -4,6 +4,8 @@ date: 2021-12-18T11:10:36+08:00
 draft: false
 sitemapExclude: true
 language: en
+image: "images/pages/book-call.png"
+images: ["images/pages/book-call.png"]
 description: Your free food spraying consultation has been scheduled
 keywords: "Saturn Spraying, Spraying oils and glazes, Food Processing, Food Production, Our Agents, Our Clients, Distributors, Egg Glazing"
 ---

@@ -5,6 +5,8 @@ draft: false
 sitemapExclude: true
 language: en
 description: Contact us form submitted
+image: "images/pages/book-call.png"
+images: ["images/pages/book-call.png"]
 ---
 
 ## We have received your enquiry

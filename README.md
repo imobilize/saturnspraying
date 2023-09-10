@@ -1,5 +1,5 @@
 # Outsourced Selling
-Saturn Spraying is the website of [outsourcedsales.com](https://outsourcedsales.com)
+Saturn Spraying is the website of [saturnspraying.com](https://saturnspraying.com)
 
 
 ### Built With
@@ -33,7 +33,7 @@ To install Hugo and NPM, on a mac you can use brew
   ```
 
 **Clone Repository and open in VSCode**  
-`git clone git@github.com:imobilize/outsourcedsales`
+`git clone git@github.com:imobilize/saturnspraying`
 
 ##### Install with NPM 
 `npm install`

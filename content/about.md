@@ -7,5 +7,7 @@ description: Saturn Spraying Systems Limited delivers high quality innovative so
 type: page
 layout: about
 featuredImage: "images/pages/about-saturn-spraying.png"
+image: "images/pages/about-saturn-spraying.png"
+images: ["images/pages/about-saturn-spraying.png"]
 keywords: "Saturn Spraying, Spraying oils and glazes, Food Processing, Food Production, Egg Glazing"
 ---

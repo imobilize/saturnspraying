@@ -5142,6 +5142,10 @@ EmojiSymbols;
     flex-direction: row;
   }
 
+  .sm\:flex-col {
+    flex-direction: column;
+  }
+
   .sm\:items-center {
     align-items: center;
   }

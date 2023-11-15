@@ -1,66 +1,12 @@
 # Outsourced Selling
-Saturn Spraying is the website of [outsourcedsales.com](https://outsourcedsales.com)
+Saturn Spraying is the website of [saturnspraying.com](https://saturnspraying.com)
 
+Saturn Spraying Systems, a leader in food spraying technology, has been a global supplier for 30 years, specializing in precision and controlled sprays to enhance food preservation, flavor, and quality. Their expertise covers automated spraying techniques for various food products, optimizing coverage, reducing waste, and extending shelf life.
 
-### Built With
+Choosing Saturn Spraying Systems offers cutting-edge technology, extensive expertise, versatile applications, natural and sustainable solutions, comprehensive support, and a customer-centric approach. Their spinning disc technology provides benefits such as efficient and uniform coating, reduced wastage, time-saving, versatility, hygiene, and improved quality control.
 
-Major frameworks/libraries used to bootstrap project.
+Saturn Spraying custom builds food spraying machines designed for diverse industry requirements. They serve various industries, including fruits and vegetables, meat, fish, cheese, biscuits, snacks, bakery products, and low-fat products. Testimonials from satisfied customers highlight the effectiveness of Saturn Spraying's machines in enhancing production efficiency and reducing costs.
 
-* [Hugo](https://gohugo.io)
-* [Tailwind.css](https://tailwindcss.com)
-* [Glightbox.js](https://github.com/biati-digital/glightbox/blob/master/README.md)
+The website provides information about their global presence, serving 249 countries with 25 stations installed. They work with multiple agents across the globe to ensure prompt product delivery. The FAQ section addresses common questions about payment plans, machinery customization, assembly assistance, production increase, and warranty.
 
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-You will first need to install the tools used to build the project namely
-* Hugo - the static site generator
-* NPM - the tool used to manage node module dependencies
-
-### Prerequisites
-
-To install Hugo and NPM, on a mac you can use brew
-* npm
-  ```sh
-  brew install node
-  ```
-* Hugo 
-  ```sh
-  brew install hugo
-  ```
-
-**Clone Repository and open in VSCode**  
-`git clone git@github.com:imobilize/outsourcedsales`
-
-##### Install with NPM 
-`npm install`
-##### Install with Yarn
-`yarn`
-
-**To start developing:**
-##### Develop with NPM 
-`npm run start`
-##### Develop with Yarn
-`yarn start`
-
-**To generate the site HTML:**
-##### Build with NPM 
-`npm run build`
-##### Build with Yarn
-`yarn build`
-
-**npm run start** will run two commands parallel:  
-`npx tailwindcss -i ./assets/css/main.css -o ./assets/css/style.css --watch`
-
-Has paginated Categories and Tags. Markdown files will automatically convert images put into `/assets` folder to .webp images. 
-
-## Image shortcodes for webp as well.
-{{< imgh src="img-name.jpg" alt="Place alt text here." >}}
-
-## Credits
-4044ever - Original Theme
-https://github.com/4044ever/Hugo-Tailwind-3.0.git
-
+The blog features articles on the power of precision spray coverage with spinning disc technology, showcasing Saturn Spraying's innovation in the food production industry. The site encourages visitors to book a call for more information on how Saturn Spraying's products can meet specific needs.

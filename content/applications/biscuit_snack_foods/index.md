@@ -3,7 +3,7 @@ title: "Biscuit and Snack Food Glazing and Spraying"
 date: 2021-12-18T11:10:36+08:00
 draft: false
 language: en
-description: Additions of flavours and textures to Biscuits and Snack Foods
+description: Elevate biscuit and snack food quality with Saturn Spraying Ltd's glazing and spraying solutions. Achieve uniform coating and flavoring for irresistible treats.
 featuredImage: "images/2.jpg"
 image: "images/1.jpg"
 images: ["images/image1.jpg", "images/image2.jpg", "images/image3.jpg"]

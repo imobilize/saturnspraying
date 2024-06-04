@@ -6,8 +6,9 @@ language: en
 featuredImage: "images/1.jpg"
 image: "images/1.jpg"
 images: ["images/image1.jpg", "images/image2.jpg", "images/image3.jpg"]
-description: The spraying system is a dish-shaped rotating stainless steel disc. The disc is rotated at speed; whereupon liquids are fed into the centre of the spinning disc
+description: Imagine trying to put sauce on hundreds of pieces of chicken nuggets by hand. It would take forever, right? But with Spinning Disc Technology by Saturn Spraying Systems, it's super fast and accurate. Plus, there's less chance of making a mess or missing spots on the food. So, it saves time and makes sure everything is just right
 authorImage: ""
+author: Saturn Spraying
 categories: ["Spinning Disc Technology"]
 tags: [ "Spinning Disc", "Production"]
 ---

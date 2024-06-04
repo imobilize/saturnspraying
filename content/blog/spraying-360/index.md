@@ -6,8 +6,9 @@ language: en
 featuredImage: "images/1.jpg"
 image: "images/1.jpg"
 images: ["images/image1.jpg", "images/image2.jpg", "images/image3.jpg"]
-description: Discover the power of precision spray coverage with Saturn Spraying's Spinning Disc Technology. From 'Top Only' to 'Top & Sides' and 'Top & Bottom' configurations, explore how this innovative system delivers uniform and consistent spraying of oils, flavors, liquids, and nuts onto various food products. Experience blockage-resistant delivery, easy maintenance, and enhanced control with digital potentiometer technology.
+description: Explore how this innovative system delivers uniform and consistent spraying of oils, flavors, liquids, and nuts onto various food products. Experience blockage-resistant delivery, easy maintenance, and enhanced control with digital potentiometer technology.
 authorImage: ""
+author: Saturn Spraying
 categories: "Spraying Systems"
 tags: [ "Spinning Disc", "Production", "Spinning Disc Technology", "Food Spraying"]
 ---

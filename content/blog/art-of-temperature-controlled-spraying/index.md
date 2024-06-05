@@ -6,10 +6,11 @@ language: en
 featuredImage: "images/1.jpg"
 image: "images/1.jpg"
 images: ["images/image1.jpg", "images/image2.jpg", "images/image3.jpg"]
-description: Explore how Saturn Spraying's expertise in food spraying technology combines with double skinned capillary-tracked radiating surfaces and an external temperature control pack to provide precise regulation of spray material temperatures. Whether it's chilled egg glaze for bacterial control or supersaturated solutions, this innovative spraying system delivers flawless, uniform, and efficient food coating results.
+description: Not all food spraying can be accomplished at ambient temperature; some applications require that the spraying material is heated or chilled to a temperature other than that of its surroundings.
 authorImage: ""
-categories: "Spraying"
-tags: [ "Temperature Controlled Spraying", "Production"]
+author: Saturn Spraying
+categories: "Spraying Systems"
+tags: [ "Temperature Control Spraying", "Food Production", "Food Coating"]
 ---
 
 ## Spraying at Temperatures

@@ -76,8 +76,8 @@ googleAnalitycsID = "GTM-NP87DJBR" # Your ID
 
 
 [taxonomies]
-category = "Categories"
-tag = "Tags"
+category = "categories"
+tag = "tags"
 
 [privacy]
 [privacy.disqus]

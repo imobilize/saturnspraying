@@ -1,7 +1,20 @@
-<title>{{if .IsHome}}{{ .Title }}{{else}}{{ .Title }} - {{ .Site.Title }}{{end}}
-</title>
-<meta name="description"
-  content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
+<title>{{ if .IsHome }}Saturn Spraying | Food Spraying Systems{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title
+    }}{{ end }}</title>
+
+{{ $metaDescription := .Description }}
+{{ if eq .Type "taxonomy" }}
+{{ if .Page.Description }}
+{{ $metaDescription = .Page.Description }}
+{{ else }}
+{{ $tagPage := index .Data.Pages 0 }}
+{{ $metaDescription = $tagPage.Description }}
+{{ end }}
+{{ else if .Description }}
+{{ $metaDescription = .Description }}
+{{ end }}
+
+<meta name="description" content="{{ with $metaDescription }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<link rel="canonical" href="{{ .Permalink }}" />
 <meta itemprop="name" content="{{ .Title }} - {{ .Site.Title }}" />
 <meta name="application-name" content="{{ .Title }} - {{ .Site.Title }}" />
 

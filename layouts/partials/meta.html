@@ -1,5 +1,5 @@
-<title>{{ if .IsHome }}Saturn Spraying | Food Spraying Systems{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title
-    }}{{ end }}</title>
+<title>{{if .IsHome}}{{ .Title }}{{else}}{{ .Title }} - {{ .Site.Title }}{{end}}
+</title>
 
 {{ $metaDescription := .Description }}
 {{ if eq .Type "taxonomy" }}

@@ -5503,6 +5503,10 @@ EmojiSymbols;
     padding-bottom: 0px;
   }
 
+  .md\:pb-12 {
+    padding-bottom: 3rem;
+  }
+
   .md\:pb-24 {
     padding-bottom: 6rem;
   }
@@ -5545,10 +5549,6 @@ EmojiSymbols;
 
   .md\:pt-8 {
     padding-top: 2rem;
-  }
-
-  .md\:pb-12 {
-    padding-bottom: 3rem;
   }
 
   .md\:text-left {

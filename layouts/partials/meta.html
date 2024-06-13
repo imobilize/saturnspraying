@@ -1,28 +1,14 @@
 <title>
-    {{ if .IsHome }}
+  {{ if .IsHome }}
       {{ .Site.Title }} - Food Spraying Technology
-    {{ else }}
+  {{ else }}
       {{ .Title }} - {{ .Site.Title }}
-    {{ end }}
+  {{ end }}
 </title>
-
-{{ $metaDescription := .Description }}
-{{ if eq .Type "taxonomy" }}
-{{ if .Page.Description }}
-{{ $metaDescription = .Page.Description }}
-{{ else }}
-{{ $tagPage := index .Data.Pages 0 }}
-{{ $metaDescription = $tagPage.Description }}
-{{ end }}
-{{ else if .Description }}
-{{ $metaDescription = .Description }}
-{{ end }}
-
-<meta name="description" content="{{ with $metaDescription }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 <link rel="canonical" href="{{ .Permalink }}" />
-<meta itemprop="name" content="{{ .Title }} - {{ .Site.Title }}" />
-<meta name="application-name" content="{{ .Title }} - {{ .Site.Title }}" />
-
-{{ template "_internal/schema.html" }}
+<meta itemprop="name" content="{{ if .IsHome }}{{ .Site.Title }} - Food Spraying Technology{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}" />
+<meta name="application-name" content="{{ if .IsHome }}{{ .Site.Title }} - Food Spraying Technology{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}" />
+{{ template "_internal/schema.html" . }}
 {{ template "_internal/opengraph.html" . }}
 {{ template "_internal/twitter_cards.html" . }}

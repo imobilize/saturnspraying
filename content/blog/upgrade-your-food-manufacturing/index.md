@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Your Food Manufacturing: Food Spraying Machines for Better Processing!"
 date: 2024-06-12T11:10:36+08:00
-draft: true
+draft: false
 language: en
 featuredImage: "images/2.png"
 image: "images/1.png"

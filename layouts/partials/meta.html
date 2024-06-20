@@ -1,9 +1,4 @@
-<title>
-  {{ if .IsHome }}
-      {{ .Site.Title }} - Food Spraying Technology
-  {{ else }}
-      {{ .Title }} - {{ .Site.Title }}
-  {{ end }}
+<title>{{ .Title }} - {{ .Site.Title }}
 </title>
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 <link rel="canonical" href="{{ .Permalink }}" />

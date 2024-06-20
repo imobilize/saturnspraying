@@ -1,5 +1,5 @@
 ---
-title: "Saturn Spraying Systems: Making Food Production Easy"
+title: "Making Food Production Easy"
 date: 2023-06-26T11:10:36+08:00
 draft: false
 language: en

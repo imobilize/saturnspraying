@@ -1,5 +1,5 @@
 ---
-title: "Precision Spray Coverage with Spinning Disc Technology: A Comprehensive Guide by Saturn Spraying"
+title: "Precision Spray Coverage with Spinning Disc Technology: A Comprehensive Guide"
 date: 2023-06-26T11:10:36+08:00
 draft: false
 language: en

@@ -3,9 +3,9 @@ title: "The Art of Temperature-Controlled Spraying: Food Coating Expertise"
 date: 2023-06-26T11:10:36+08:00
 draft: false
 language: en
-featuredImage: "images/1.jpg"
-image: "images/1.jpg"
-images: ["images/image1.jpg", "images/image2.jpg", "images/image3.jpg"]
+featuredImage: "images/biscuits-food-spraying.jpg"
+image: "images/biscuits-food-spraying.jpg"
+images: ["images/ibiscuits-food-spraying.jpg", "images/spinning-disc-top-and-sides-controlled-spraying-satrun-spraying.jpg", "images/temperatured-controlled-top-and-bottom-spraying.jpg", "images/temperatured-controlled-3d-food-spraying-machine-satrun-spraying-systems.jpg"]
 description: Not all food spraying can be accomplished at ambient temperature; some applications require that the spraying material is heated or chilled to a temperature other than that of its surroundings.
 authorImage: ""
 author: Saturn Spraying
@@ -32,10 +32,10 @@ Saturn Spraying augments its standard DiscMaster™ and DiscMatic™ design with
 
 ## TEMPERATURE CONTROLLED TOP & SIDES SIDES SPRAYING
 
-![Spinning Disc 10](images/2.jpg)
+![Spinning Disc Top and sides food spraying](images/spinning-disc-top-and-sides-controlled-spraying-satrun-spraying.jpg)
 
 ## TEMPERATURE CONTROLLED ALL OVER SPRAYING 2D
-![Top & Bottom 2.5D](images/3.jpg)
+![Temperatured Controlled Top & Bottom Food Spraying 2.5D](images/temperatured-controlled-top-and-bottom-spraying.jpg)
 
 ## TEMPERATURE CONTROLLED ALL OVER SPRAYING 3D
-![Spinning Disc 12](images/4.jpg)
+![Temperature controlled 3d spraying all over food](images/temperatured-controlled-3d-food-spraying-machine-satrun-spraying-systems.jpg)

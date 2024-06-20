@@ -3,9 +3,9 @@ title: "Making Food Production Easy"
 date: 2023-06-26T11:10:36+08:00
 draft: false
 language: en
-featuredImage: "images/1.jpg"
-image: "images/1.jpg"
-images: ["images/image1.jpg", "images/image2.jpg", "images/image3.jpg"]
+featuredImage: "images/food-spraying-technology-spinning-disc.jpg"
+image: "images/food-spraying-technology-spinning-disc.jpg"
+images: ["images/imagefood-spraying-technology-spinning-disc.jpg", "images/image2.jpg", "images/image3.jpg"]
 description: Imagine trying to put sauce on hundreds of pieces of chicken nuggets by hand. It would take forever, right? But with Spinning Disc Technology by Saturn Spraying Systems, it's super fast and accurate. Plus, there's less chance of making a mess or missing spots on the food. So, it saves time and makes sure everything is just right
 authorImage: ""
 author: Saturn Spraying

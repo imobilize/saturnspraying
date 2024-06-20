@@ -1,5 +1,5 @@
 ---
-title: "Transforming Food Preservation with Saturn Spraying Systems"
+title: "Transforming Food Preservation with Spraying Systems"
 date: 2024-06-17T11:10:36+08:00
 draft: true
 language: en

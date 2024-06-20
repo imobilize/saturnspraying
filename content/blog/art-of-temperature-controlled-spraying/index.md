@@ -1,5 +1,5 @@
 ---
-title: "The Art of Temperature-Controlled Spraying: Saturn Spraying's Food Coating Expertise"
+title: "The Art of Temperature-Controlled Spraying: Food Coating Expertise"
 date: 2023-06-26T11:10:36+08:00
 draft: false
 language: en

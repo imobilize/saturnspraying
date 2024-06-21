@@ -64,8 +64,12 @@
                     {{ end }}
 
                     <div class="text-center mt-12">
-                        <span
-                            class="bg-sky-600 inline-block text-white text-xs font-semibold px-2.5 py-0.5 rounded-full h-5">{{.Params.categories}}</span>
+                        {{ range $elem_index, $elem_val := (.GetTerms "categories") }}
+                        {{- if gt $elem_index 0 }}, {{ end -}}
+                        <a href="{{.RelPermalink}}" class="text-blue-700 text-sm font-bold uppercase pb-4">{{ .LinkTitle
+                            }}</a>
+                        {{- end -}}
+
                         <h1 class="my-3 text-4xl md:text-5xl xl:text-5xl font-bold tracking-tight mb-12">{{ .Title }}
                         </h1>
 

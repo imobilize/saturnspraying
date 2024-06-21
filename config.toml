@@ -1,5 +1,5 @@
 baseURL = "https://www.saturnspraying.com/"
-title = "Saturn Spraying Ltd"
+title = "Saturn Spraying Systems"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
@@ -12,6 +12,7 @@ canonifyURLs = true
 paginate = 8
 darkmode_js = ["assets/js/darkmode.js"]
 enableInlineShortcodes = true
+timeout = 60000
 
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
@@ -28,7 +29,7 @@ authorimage = "../assets/images/global/author.webp"
 github = "https://github.com/imobilize/saturnspraying"
 facebook = "https://www.facebook.com/saturnsprayingltd"
 og_image = "/images/saturn_spraying_systems.png"
-sitename = "Saturn Spraying Ltd"
+sitename = "Saturn Spraying Systems"
 twitter = "@saturnspraying"
 description = "Specialists in Food Spraying Technology, Food Spraying Machines and Food Spraying Equipment. Food Spraying Products exported worldwide"
 logo = ""
@@ -76,8 +77,8 @@ googleAnalitycsID = "GTM-NP87DJBR" # Your ID
 
 
 [taxonomies]
-category = "Categories"
-tag = "Tags"
+category = "categories"
+tag = "tags"
 
 [privacy]
 [privacy.disqus]

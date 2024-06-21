@@ -1,10 +1,9 @@
-<title>{{if .IsHome}}{{ .Title }}{{else}}{{ .Title }} - {{ .Site.Title }}{{end}}
+<title>{{ .Title }} - {{ .Site.Title }}
 </title>
-<meta name="description"
-  content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
-<meta itemprop="name" content="{{ .Title }} - {{ .Site.Title }}" />
-<meta name="application-name" content="{{ .Title }} - {{ .Site.Title }}" />
-
-{{ template "_internal/schema.html" }}
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<link rel="canonical" href="{{ .Permalink }}" />
+<meta itemprop="name" content="{{ if .IsHome }}{{ .Site.Title }} - Food Spraying Technology{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}" />
+<meta name="application-name" content="{{ if .IsHome }}{{ .Site.Title }} - Food Spraying Technology{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}" />
+{{ template "_internal/schema.html" . }}
 {{ template "_internal/opengraph.html" . }}
 {{ template "_internal/twitter_cards.html" . }}

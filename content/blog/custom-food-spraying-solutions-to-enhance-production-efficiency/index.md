@@ -62,9 +62,9 @@ Saturn Spraying Systems offers a variety of tailored solutions that show their a
 
 - **DiscNomic™**: [A simple machine that sprays only from the top,](https://2ly.link/1yrdg) perfect for basic applications that need precise coating.
 - **DiscMaster™**: Great for small to medium-sized businesses, [this system can spray precisely from the top or all over](https://2ly.link/1yrdk), giving flexibility in how products are coated.
-- **DiscMatic™**: Made for large conveyor production lines, offering professional-grade spraying across bigger setups.
-- **PortaDisc™**: Specifically designed for places where space is tight or there’s already a conveyor, giving the option to spray from the top without losing performance.
-- **Sprinkling Machine**: This special system spreads granular products evenly, improving how products look and ensuring consistency.
+- **DiscMatic™**: Made for large conveyor production lines, offering [professional-grade spraying across bigger setups.](https://2ly.link/1ysMG)
+- **PortaDisc™**: Specifically designed for [places where space is tight](https://2ly.link/1ysMM) or there’s already a conveyor, giving the option to spray from the top without losing performance.
+- **Sprinkling Machine**: This special system spreads granular products evenly, improving how [products look and ensuring consistency.](https://2ly.link/1ysMW)
 
 Each of these solutions shows how Saturn Spraying Systems delivers not just machines, but systems that make operations smoother and raise the quality of products in food production.
 

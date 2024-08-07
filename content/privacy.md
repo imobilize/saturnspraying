@@ -3,7 +3,9 @@ title: "Privacy Policy"
 date: 2023-04-10T11:10:36+08:00
 draft: false
 language: en
-description: Privacy policy
+description: Privacy policy by Saturn Spraying ltd
+image: "images/pages/book-call.png"
+images: ["images/pages/book-call.png"]
 ---
 
 ### 1. INTRODUCTION  

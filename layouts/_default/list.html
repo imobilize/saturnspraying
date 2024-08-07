@@ -1,11 +1,9 @@
 {{ define "main" }}
 
 <main>
-    {{ $blogbg := resources.Get "images/pages/blog-bg.jpg" }}
-    <div class="relative overflow-hidden table w-full py-32 lg:py-36 bg-center bg-no-repeat " style="
-        background-position: 50%;
-        background-image: url('{{ $blogbg.RelPermalink}}');
-      ">
+    {{ $blogbg := resources.Get "images/pages/blog-bg.jpg" | default "path/to/default-image.jpg" }}
+<div class="relative overflow-hidden table w-full py-32 lg:py-36 bg-center bg-no-repeat"
+    style="background-position: 50%; background-image: url('{{ $blogbg.RelPermalink | safeURL }}');">
         <div class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed"
             style="background-color: rgba(0, 0, 0, 0.75)">
             <div class="flex justify-center items-center h-full">
